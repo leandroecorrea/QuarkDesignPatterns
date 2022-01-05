@@ -1,0 +1,16 @@
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.exe
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.deps.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\ref\Fabrica Abstracta.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\bin\Debug\net5.0\Fabrica Abstracta.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\ref\Fabrica Abstracta.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Fabrica Abstracta\Fabrica Abstracta\obj\Debug\net5.0\Fabrica Abstracta.genruntimeconfig.cache
