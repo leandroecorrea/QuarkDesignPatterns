@@ -1,0 +1,16 @@
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache

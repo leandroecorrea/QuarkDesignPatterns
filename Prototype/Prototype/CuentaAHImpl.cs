@@ -16,22 +16,19 @@ namespace Prototype
             this.tipo = "AHORRO";
         }
 
-        // Agrego, comentada, la implementación sugerida en Refactoring Guru para Java
-        //public CuentaAHImpl(CuentaAHImpl target)
-        //{
-        //    if (target != null)
-        //    {
-        //        this.Monto = target.Monto;
-        //        this.tipo = target.tipo;
-        //    }
-        //}
+        public CuentaAHImpl(CuentaAHImpl target)
+        {
+            if (target != null)
+            {
+                Monto = target.Monto;
+                this.tipo = target.tipo;
+            }
+        }
 
         public object Clone()
         {
-            //CuentaAHImpl clone = new CuentaAHImpl(this);
-            //return clone;
-            return this.MemberwiseClone();
-
+            CuentaAHImpl clone = new CuentaAHImpl(this);
+            return clone;
         }
         public override string ToString()
         {
