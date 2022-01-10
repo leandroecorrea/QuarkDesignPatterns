@@ -1,0 +1,33 @@
+﻿@model List<Persona>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center align-content-center">
+    <h1 class="display-4">QuarkAcademy - MVC Pattern</h1>
+    <form method="post" asp-controller="Persona" asp-action="Seleccionar">
+        <div class="form-group">
+            <button type="submit" name="motor" value="MYSQL">MYSQL</button>
+            <button type="submit" name="motor" value="POSTGRESQL">POSTGRESQL</button>
+        </div>
+    </form>
+    <table class="table table-bordered table-condensed table-hover">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Nombres</th>
+                <th scope="col">Edad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {                
+                <tr>
+                    <th scope="row">@p.Id</th>
+                    <td>@p.Nombres</td>
+                    <td>@p.Edad</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

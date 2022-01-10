@@ -1,0 +1,15 @@
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.exe
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.deps.json
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.dll
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\ref\InyeccionDeDependencia.dll
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\bin\Debug\net5.0\InyeccionDeDependencia.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.dll
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\ref\InyeccionDeDependencia.dll
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.pdb
+C:\Users\leand\OneDrive\Documentos\Quark\InyeccionDeDependencia\InyeccionDeDependencia\obj\Debug\net5.0\InyeccionDeDependencia.genruntimeconfig.cache
