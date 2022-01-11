@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aBxo4KQIE1UDPe2HAo4yjx+KXbEXozCbeR5FOClxcSqrKOKmeNy8QNhjisMVYSNeiHAOkLHrZRtMxE0jpgNjYw==",
+  "dgSpecHash": "lpoCB5PqKPxz0belqU5W+oXDcKMXoN/PqMGFo7R9PbUgpoFS3cfwjLckRfEzLvFB+AlpOq2LbriFqON+Zq/hbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Documentos\\Quark\\Design Patterns\\Command\\Command\\Command.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\QuarkDesignPatterns\\Command\\command\\Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

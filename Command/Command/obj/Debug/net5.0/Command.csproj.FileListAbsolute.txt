@@ -14,3 +14,19 @@ C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Command\Command\obj\Deb
 C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Command\Command\obj\Debug\net5.0\ref\Command.dll
 C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Command\Command\obj\Debug\net5.0\Command.pdb
 C:\Users\leand\OneDrive\Documentos\Quark\Design Patterns\Command\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.exe
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.deps.json
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.dll
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\ref\Command.dll
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\bin\Debug\net5.0\Command.pdb
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.dll
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\ref\Command.dll
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.pdb
+C:\Users\Lenovo\Documents\QuarkDesignPatterns\Command\command\obj\Debug\net5.0\Command.genruntimeconfig.cache
